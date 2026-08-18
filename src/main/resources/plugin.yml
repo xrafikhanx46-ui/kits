@@ -1,0 +1,26 @@
+name: ZyxoKits
+version: 1.0.0
+main: com.zyxo.kits.ZyxoKits
+api-version: '1.21'
+author: Zyxo
+commands:
+  kits:
+    description: Opens the Zyxo kits GUI
+    usage: /kits
+permissions:
+  zyxo.kit.starter.claim:
+    default: true
+  zyxo.kit.scout.claim:
+    default: false
+  zyxo.kit.warrior.claim:
+    default: false
+  zyxo.kit.guardian.claim:
+    default: false
+  zyxo.kit.champion.claim:
+    default: false
+  zyxo.kit.master.claim:
+    default: false
+  zyxo.kit.conqueror.claim:
+    default: false
+  zyxo.kit.immortal.claim:
+    default: false

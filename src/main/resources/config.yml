@@ -1,0 +1,39 @@
+# ZyxoKits - all kit settings are intentionally easy to edit.
+# claim-once prevents a player from claiming the same kit twice.
+claim-once: true
+preview-title: "§8Preview: %kit%"
+menu-title: "§8Zyxo Kits"
+
+kits:
+  starter:
+    display: "§aStarter Kit"
+    permission: "zyxo.kit.starter.claim"
+    icon: "SHULKER_BOX"
+  scout:
+    display: "§bScout"
+    permission: "zyxo.kit.scout.claim"
+    icon: "SHULKER_BOX"
+  warrior:
+    display: "§6Warrior"
+    permission: "zyxo.kit.warrior.claim"
+    icon: "SHULKER_BOX"
+  guardian:
+    display: "§2Guardian"
+    permission: "zyxo.kit.guardian.claim"
+    icon: "SHULKER_BOX"
+  champion:
+    display: "§cChampion"
+    permission: "zyxo.kit.champion.claim"
+    icon: "SHULKER_BOX"
+  master:
+    display: "§dMaster"
+    permission: "zyxo.kit.master.claim"
+    icon: "SHULKER_BOX"
+  conqueror:
+    display: "§eConqueror"
+    permission: "zyxo.kit.conqueror.claim"
+    icon: "SHULKER_BOX"
+  immortal:
+    display: "§5Immortal"
+    permission: "zyxo.kit.immortal.claim"
+    icon: "SHULKER_BOX"
